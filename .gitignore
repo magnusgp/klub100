@@ -1,3 +1,25 @@
+# Audio files in audio directories
+audio/*.mp3
+audio/*.wav
+audio/*.flac
+audio/*.mp4
+
+cropped_audio/*.mp3
+cropped_audio/*.wav
+cropped_audio/*.flac
+cropped_audio/*.mp4
+
+merged_audio/*.mp3
+merged_audio/*.wav
+merged_audio/*.flac
+merged_audio/*.mp4
+
+# Virtual environment
+klub100venv/
+
+# Mac OS
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
